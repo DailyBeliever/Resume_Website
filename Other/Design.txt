@@ -1,3 +1,8 @@
 I like the idea of having a terminal, that can be used if needed
 -----------------------------------------------------------------
-Maybe do like an optional home page 
+
+Huge box:
+    My picture on the left | Right is my resume
+    Below is my summary
+
+Buttons Below That has terminal and a download button?

@@ -56,15 +56,18 @@ Javascript can be written in Typescript, as Typescript is a superset of js
 
 
 --------------------------------------------------
-              ---
+              Components
 --------------------------------------------------
-
+Components: Reuseable code for pages that can be imported on any page to keep the same design
 
 
 --------------------------------------------------
-              ---
+              Margins
 --------------------------------------------------
-
+mb    - Margin-bottom
+mt    - Margin-top
+ml    - Margin-left
+mr    - Margin-right
 
 
 --------------------------------------------------
