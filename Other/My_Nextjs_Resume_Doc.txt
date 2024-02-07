@@ -1,0 +1,109 @@
+**** Next.js Resume Documentation ****
+--------------------------------------------------
+                To Execute
+--------------------------------------------------
+npm run dev or yarn dev or pnpm dev or bun dev
+
+Open http://localhost:3000 
+--------------------------------------------------
+   ** Next.js Framework Built off of React  **
+
+Next.js is a versatile framework for building React applications, offering 
+server-side rendering, static site generation, and more. It simplifies the 
+development processby providing features like automatic code splitting, 
+hot module replacement, and optimized performance.
+
+--------------------------------------------------
+                ---
+--------------------------------------------------
+---
+
+
+
+
+
+
+--------------------------------------------------
+                ---
+--------------------------------------------------
+----
+
+--------------------------------------------------------------------------------------------
+                                ****INDEX****
+                                
+- Random Syntax Notes
+
+- Comments
+
+- Access Operator
+
+- Input/Output Text
+
+- Variables
+
+- Data Types
+
+- 
+
+- 
+
+- 
+
+- 
+
+--------------------------------------------------------------------------------------------
+
+--------------------------------------------------
+              Random Syntax Notes 
+--------------------------------------------------
+**Printing Stuff**
+String:
+cout << "... "<< Var <<"..." << Var << endl;
+    cout = console out
+    endl = endline
+
+**Operators**
+>= Greater than equal to..
+<= Less than or equal to..
+"!=" Not equal to 
+== is equal
+"=" assings a value
+
+**Logical Operator**
+    &&: AND allows for more conditons 
+    || OR
+
+**Defining**
+("") are used to define a string
+('') are used to define a character literal
+
+**strcpy**
+strcpy: copys a string 
+Example - 
+    char source[] = "Hello";
+    strcpy(source);
+    printf("destination: %s\n", destination);
+source
+
+**Incrementation | Decrementing**
+i++ or i--
+
+Example
+var = var + 1;
+// this will do the same thing
+var++
+
+Boolean Output:
+    0 = false
+    1 = true
+--------------------------------------------------
+              Comments
+--------------------------------------------------
+Comments: Use "#"
+    Example:
+        # This is a comment
+
+For Comment Blocks:
+=pod
+Text Here
+=cut
