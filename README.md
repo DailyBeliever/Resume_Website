@@ -1,6 +1,14 @@
 # Resume_Website
 This is my Resume Website built with Next.js
 
+## 2 Folders
+### Other
+- Next.js Resume Documentation
+- log.md
+
+### Website
+- All website Files 
+
 ## Getting Started
 
 First, run the development server:
