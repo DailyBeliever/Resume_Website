@@ -8,14 +8,18 @@
 - Started Design
 - Documentation 
 
-## 2/_/24 
+## 2/7/24 
+- Added My HeadShot Picture
+- Added Buttons
+    "My Resume" & "Terminal"
+- 
+
+## 2/8/24
 
 ## 2/_/24
 
-##
+## 2/_/24
 
-##
+## 2/_/24
 
-##
-
-##
+## 2/_/24

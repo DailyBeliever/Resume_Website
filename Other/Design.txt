@@ -2,7 +2,17 @@ I like the idea of having a terminal, that can be used if needed
 -----------------------------------------------------------------
 
 Huge box:
-    My picture on the left | Right is my resume
-    Below is my summary
+
+Left:
+My picture
+2 buttons "Resume" | "
+
+Right: 
+    My picture on the left
+
+Left:
+A summary before  Here before a button is clicked? to exit click exit button
+Will put whatever button is clicked
+
 
 Buttons Below That has terminal and a download button?
