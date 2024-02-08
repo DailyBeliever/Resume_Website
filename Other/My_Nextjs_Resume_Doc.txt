@@ -71,10 +71,25 @@ mr    - Margin-right
 
 
 --------------------------------------------------
-              ---
+              Columns | Span
 --------------------------------------------------
+col      - Column
+col-1    - Column with width set to 1/12 of the container's width
+col-2    - Column with width set to 2/12 of the container's width
+col-3    - Column with width set to 3/12 of the container's width
+col-4    - Column with width set to 4/12 of the container's width
+col-5    - Column with width set to 5/12 of the container's width
+col-6    - Column with width set to 6/12 of the container's width
+col-7    - Column with width set to 7/12 of the container's width
+col-8    - Column with width set to 8/12 of the container's width
+col-9    - Column with width set to 9/12 of the container's width
+col-10   - Column with width set to 10/12 of the container's width
+col-11   - Column with width set to 11/12 of the container's width
+col-12   - Column with width set to full width of the container
 
-
+col-span-1 would span across 1 column.
+col-span-2 would span across 2 columns.
+col-span-3 would span across 3 columns.
 
 --------------------------------------------------
               ---
