@@ -12,9 +12,10 @@
 - Added My HeadShot Picture
 - Added Buttons
     "My Resume" & "Terminal"
-- 
 
-## 2/8/24
+## 2/9/24
+- Updated page.tsx 
+    Added more tailwind
 
 ## 2/_/24
 
