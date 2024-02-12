@@ -35,7 +35,7 @@ const HeroSection = () => {
                     />
                 </div>
                     <div className= "ml-6 mt-4">
-                        <p className= "mb-4"> Hello Everyone my name is Joshua Chavez ..
+                        <p className= "mb-4"> Hello Everyone my name is Joshua Chavez and 
                             
                         </p>
                         <button className= "px-6 py-3 rounded-full mr-4 bg-white hover:bg-slate-200 text-black font-bold"> My Resume </button>
