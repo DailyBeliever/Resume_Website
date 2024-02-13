@@ -19,6 +19,14 @@ hot module replacement, and optimized performance.
 Javascript can be written in Typescript, as Typescript is a superset of js
 
 
+
+--------------------------------------------------
+                Project Resources:
+--------------------------------------------------
+https://www.npmjs.com/package/react-type-animation
+
+
+
 --------------------------------------------------------------------------------------------
                                 ****INDEX****
                                 

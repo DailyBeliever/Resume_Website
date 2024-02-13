@@ -1,7 +1,9 @@
+'use client';
 // Components: Reuseable code for pages that can be 
 // imported on any page to keep the same design
 import React from "react";
 import Image from "next/image";
+import { TypeAnimation } from 'react-type-animation';
 
 const HeroSection = () => {
     return (
@@ -9,8 +11,27 @@ const HeroSection = () => {
         <div className="grid grid-cols-1 sm:grid-cols-12">
             <div className="col-span-7 place self-center text-center sm:text-left">
                 <h1 className= "text-[#ffffff] mb-4 text-4xl lg:text-6xl font-extrabold"> 
-                    <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-600">Hello, I'm{" "}</span> 
-                    Joshua!
+                    <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-600">
+                        Hello, I'm{" "}
+                    </span> 
+                    <br></br>
+                    <TypeAnimation
+                    sequence={[
+                    // Same substring at the start will only be typed out once, initially
+                    'Joshua',
+                    2000, // wait 1s before replacing "Mice" with "Hamsters"
+                    'I love hardware and software',
+                    2000,
+                    'I am looking for a job in the tech industry',
+                    2000,
+                    'I am also a business owner',
+                    2000,
+                ]}
+                wrapper="span"
+                speed={50}
+                //repeat={3}
+                cursor={false}
+                />
                 </h1>
                 <p className="text-[#ABB7BE]text-base sm:text text-lg mb-6 lg:text-xl"> 
                 Welcome To My Resume Website!
@@ -19,8 +40,8 @@ const HeroSection = () => {
                     <button className= "px-6 py-3 w-full sm:w-fit rounded-full mr-4 bg-gradient-to-br from-red-500 via-blue-500 to-red-500 hover:bg-slate-200 text-white font-bold">
                         <span className= "block bg-[#292828] hover:bg-slate-800 rounded-full px-5 py-2 "> My Resume </span>
                     </button>
-                    <button className= "px-6 py-3 w-full sm:w-fit rounded-full bg-gradient-to-br from-red-500 via-blue-500 to-red-500 hover:bg-slate-200 text-white font-bold"> Terminal 
-                    
+                    <button className= "px-1 py-1 w-full sm:w-fit rounded-full bg-gradient-to-br from-red-500 via-blue-500 to-red-500 hover:bg-slate-200 font-bold"> 
+                        <span className= "block bg-[#121212] hover:bg-slate-800 rounded-full px-5 py-2"> Terminal </span>
                     </button>
                 </div>
             </div>

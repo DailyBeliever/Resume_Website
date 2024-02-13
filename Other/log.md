@@ -17,7 +17,9 @@
 - Updated page.tsx 
     Added more tailwind
 
-## 2/_/24
+## 2/12/24
+- Added more detail on h1 of mainpage
+- Started work on navbar
 
 ## 2/_/24
 
