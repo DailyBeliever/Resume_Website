@@ -21,7 +21,8 @@
 - Added more detail on h1 of mainpage
 - Started work on navbar
 
-## 2/_/24
+## 2/13/24
+- More work on navbar
 
 ## 2/_/24
 

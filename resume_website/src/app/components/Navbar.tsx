@@ -5,26 +5,19 @@ const Navbar = () => {
     return (
         <nav>
             <div className="flex flex-wrap itmes-cetner justify-between mx-auto p-8">
-            <Link href={"/"} className="text-5xl text-white font-semibold">
-                LOGO
+                <Link href={"/"} className="text-5xl text-white font-semibold">
+                    LOGO
                 </Link>
                 <div className="menu hidden md:block md:w-auto" id="navbar"> 
                     <ul>
                         <li>
-                            <Link href={"/"} className="text-white">MPCB</Link>
+                            <Link href={"#about"} 
+                                className="block py-2 pl-3 pr-4 text:[#ADB7BE] sm:text-xl rounded md:p-0 hover:text-red-600"
+                            > 
+                                About 
+                            </Link>
                         </li>
-                        <li>
-                            <Link href={"/about"} className="text-white">Projects</Link>
-                        </li>
-                        <li>
-                            <Link href={"/projects"} className="text-white">About</Link>
-                        </li>
-                        <li>
-                            <Link href={"/contact"} className="text-white">Contact</Link>
-                        </li>
-
                     </ul>
-                
                 </div>
             </div>
         </nav>

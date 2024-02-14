@@ -19,17 +19,17 @@ const HeroSection = () => {
                     sequence={[
                     // Same substring at the start will only be typed out once, initially
                     'Joshua',
-                    2000, // wait 1s before replacing "Mice" with "Hamsters"
-                    'I love hardware and software',
-                    2000,
-                    'I am looking for a job in the tech industry',
-                    2000,
-                    'I am also a business owner',
+                    1000, // wait 1s before replacing "Mice" with "Hamsters"
+                    'an avid programmer and PC enthusiast',
+                    1000,
+                    'looking for a job', // in the tech industry,
+                    1000,
+                    'also a business owner',
                     2000,
                 ]}
                 wrapper="span"
                 speed={50}
-                //repeat={3}
+                repeat={3}
                 cursor={false}
                 />
                 </h1>
