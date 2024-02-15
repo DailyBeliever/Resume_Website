@@ -24,6 +24,14 @@
 ## 2/13/24
 - More work on navbar
 
+## 2/14/24
+- Finishing Navbar
+    Look into py and px for navbar
+
+## 2/_/24
+
+## 2/_/24
+
 ## 2/_/24
 
 ## 2/_/24
