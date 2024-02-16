@@ -12,7 +12,7 @@ const HeroSection = () => {
             <div className="col-span-7 place self-center text-center sm:text-left">
                 <h1 className= "text-[#ffffff] mb-4 text-4xl lg:text-6xl font-extrabold"> 
                     <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-600">
-                        Hello, I'm{" "}
+                        Hello, I&apos;m{" "}
                     </span> 
                     <br></br>
                     <TypeAnimation
@@ -56,8 +56,8 @@ const HeroSection = () => {
                     />
                 </div>
                     <div className= "ml-6 mt-4">
-                        <p className= "mb-4"> Hello Everyone my name is Joshua Chavez and 
-                            
+                        <p className= "mb-4">
+                            Welcome To My my Website! | Currently buildiing
                         </p>
                         <button className= "px-6 py-3 rounded-full mr-4 bg-white hover:bg-slate-200 text-black font-bold"> My Resume </button>
                         <button className= "px-6 py-3 rounded-full bg-white hover:bg-slate-200 text-black font-bold"> Terminal </button>
