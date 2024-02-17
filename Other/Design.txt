@@ -1,16 +1,19 @@
 I like the idea of having a terminal, that can be used if needed
+However Not in Mobile
 -----------------------------------------------------------------
 
-Huge box:
 
 Left:
-My picture
-2 buttons "Resume" | "
+Header Text "Welcome"
 
-Right: 
-    My picture on the left
 
-Left:
+Right:
+- My picture
+- Some Text Under
+
+Huge box: "Under Main Header"
+2 buttons "Resume & Terminal
+
 A summary before  Here before a button is clicked? to exit click exit button
 Will put whatever button is clicked
 

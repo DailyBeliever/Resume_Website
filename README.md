@@ -1,15 +1,14 @@
 # Resume_Website
 This is my Resume Website built with Next.js
 
-## 2 Folders
-### Other
-- Next.js Resume Documentation
-- log.md
+## Project Website
 
-### Website
-- All website Files 
 
-## Getting Started
+### Other Folders in Project
+- Resume Design 
+- Working Log
+
+# Getting Started with Next.js | Vercel
 
 First, run the development server:
 

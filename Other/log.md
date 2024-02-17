@@ -28,10 +28,19 @@
 - Finishing Navbar
     Look into py and px for navbar
 
+## 2/16/24
+- Started work on mobile
+- Updated Design
+- Update ReadME
+- Started working on vercel lanch for basesite
+
 ## 2/_/24
+- Created Second Branch
+- ** Fix error with ham
+-
+-
 
 ## 2/_/24
 
-## 2/_/24
 
 ## 2/_/24

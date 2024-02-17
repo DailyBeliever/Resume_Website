@@ -10,7 +10,7 @@ const HeroSection = () => {
         <section>
         <div className="grid grid-cols-1 sm:grid-cols-12">
             <div className="col-span-7 place self-center text-center sm:text-left">
-                <h1 className= "text-[#ffffff] mb-4 text-4xl lg:text-6xl font-extrabold"> 
+                <h1 className= "text-[#ffffff] mb-10 text-4xl lg:text-6xl font-extrabold"> 
                     <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-600">
                         Hello, I&apos;m{" "}
                     </span> 
@@ -33,9 +33,9 @@ const HeroSection = () => {
                 cursor={false}
                 />
                 </h1>
-                <p className="text-[#ABB7BE]text-base sm:text text-lg mb-6 lg:text-xl"> 
-                Welcome To My Resume Website!
-                </p>
+                    <p className="text-[#ABB7BE]text-base sm:text text-lg mb-6 lg:text-xl"> 
+                    Welcome To My Resume Website!
+                    </p>
                 <div>
                     <button className= "px-6 py-3 w-full sm:w-fit rounded-full mr-4 bg-gradient-to-br from-red-500 via-blue-500 to-red-500 hover:bg-slate-200 text-white font-bold">
                         <span className= "block bg-[#292828] hover:bg-slate-800 rounded-full px-5 py-2 "> My Resume </span>
@@ -56,8 +56,8 @@ const HeroSection = () => {
                     />
                 </div>
                     <div className= "ml-6 mt-4">
-                        <p className= "mb-4">
-                            Welcome To My my Website! | Currently buildiing
+                        <p className= "mb-4 font-bold">
+                            Welcome To My my Website! | Currently Buildiing
                         </p>
                         <button className= "px-6 py-3 rounded-full mr-4 bg-white hover:bg-slate-200 text-black font-bold"> My Resume </button>
                         <button className= "px-6 py-3 rounded-full bg-white hover:bg-slate-200 text-black font-bold"> Terminal </button>
