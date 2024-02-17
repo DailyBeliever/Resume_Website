@@ -4,7 +4,7 @@
 - Created Repo
 - Added all needed files for website to work
 
-## 1/6/24
+## 2/6/24
 - Started Design
 - Documentation 
 
@@ -31,7 +31,7 @@
 ## 2/16/24
 - Started work on mobile
 - Updated Design
-- Update ReadME
+- Updated ReadME
 - Started working on vercel lanch for basesite
 
 ## 2/_/24
