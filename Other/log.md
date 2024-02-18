@@ -34,11 +34,11 @@
 - Updated ReadME
 - Started working on vercel lanch for basesite
 
-## 2/_/24
+## 2/17/24
 - Created Second Branch
 - ** Fix error with ham
--
--
+- Added Metadata
+- Favicon
 
 ## 2/_/24
 
