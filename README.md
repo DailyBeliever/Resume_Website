@@ -3,6 +3,10 @@ This is my Resume Website built with Next.js
 
 ## Project Website
 
+### How to Access
+This website uses vercel. To access it, go to:
+
+https://jchavresume.vercel.app/
 
 ### Other Folders in Project
 - Resume Design 
