@@ -1,5 +1,4 @@
 // This is the import from the components folder
-import Background from "../components/Background";
 import HeroSection from "../components/HeroSection";
 import Navbar from "../components/Navbar";
 
