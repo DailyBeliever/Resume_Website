@@ -10,7 +10,6 @@ export default function Home() {
       <div className= "container mt-24 mx-auto">
       <HeroSection />
       <AboutSection />
-      <Center />
       </div>
     </main>
   );

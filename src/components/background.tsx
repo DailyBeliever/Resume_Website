@@ -1,24 +1,15 @@
-import { ReactNode, memo } from "react";
+// This is the import from the components folder
+import React from "react";
 
-const FrostedWindow = memo(function FrostedWindow({
-  children,
-  className,
-  ...props
-}: {
-  children?: ReactNode;
-  className?: string;
-} & React.HTMLAttributes<HTMLDivElement>) {
+const Background = () => {
   return (
-    <div
-      className={
-        "bg-gray-300 bg-opacity-20 backdrop-blur-lg rounded-3xl drop-shadow-lg p-5 " +
-        className
-      }
-      {...props}
-    >
-      {children}
-    </div>
-  );
-});
+    <main className="flex min-h-screen flex-col bg-[#292828] containter mx-auto px-12 py-4">
 
-export default FrostedWindow;
+
+
+    </main>
+  );
+}
+
+
+export default Background()
