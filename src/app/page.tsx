@@ -10,7 +10,7 @@ export default function Home() {
       <Navbar />
       <div className= "container mt-24 mx-auto">
       <HeroSection />
-      <Background />
+      <Background currentPage="home" />
       </div>
     </main>
   );
