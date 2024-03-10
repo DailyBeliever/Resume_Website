@@ -1,5 +1,6 @@
 // This is the import from the components folder
 import HeroSection from "../components/HeroSection";
+import Background from "../components/Box";
 import Navbar from "../components/Navbar";
 import AboutSection from "../components/AboutSection";
 
@@ -9,7 +10,7 @@ export default function Home() {
       <Navbar />
       <div className= "container mt-24 mx-auto">
       <HeroSection />
-      <AboutSection />
+      <Background currentPage="home" />
       </div>
     </main>
   );
