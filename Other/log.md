@@ -43,9 +43,11 @@
 ## 2/19/24
 - Added website url 
 
-## 3/2/24
+## 3/9/24
+- Added Box under Components
+- Update app>page.tsx
 
-## 3/_/24
+## 3/_/24 | Focus on Navbar getting dato to box.. 
 
 ## 3/_/24
 
