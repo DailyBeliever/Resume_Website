@@ -5,7 +5,9 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
+  // Websites title
   title: "Resume Website",
+  // This is what you would see on Discord boxes
   description: "Joshua Chavez Resume Website",
 };
 
