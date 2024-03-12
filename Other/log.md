@@ -47,8 +47,9 @@
 - Added Box under Components
 - Update app>page.tsx
 
-## 3/_/24 | Focus on Navbar getting dato to box.. 
+## 3/11/24 
+- Navbar fix for mobile | look into keep home there.. move to top right..
 
-## 3/_/24
+## 3/_/24 | Focus on Navbar getting dato to box.. 
 
 ## 3/_/24

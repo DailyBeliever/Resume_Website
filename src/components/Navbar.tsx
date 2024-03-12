@@ -31,10 +31,10 @@ const Navbar = () => {
     return (
         <nav className= "fixed top-0 left-0 right-0 z-10 bg-[#121212] bg-opacity-100">
             <div className="flex flex-wrap itmes-cetner justify-between mx-auto px-5 py-2">
-                <Link href={"/"} className="text-2xl md:text-5xl text-white font-semibold">
+                <Link href={"/"} className="text-2xl md:text-5xl text-white font-semibold hidden sm:block">
                     Home
                 </Link>
-                    <div className= "mobile-menu block md:hidden">
+                    <div className= "mobile-menu block md:hidden ">
                         {
                             !navbarOpen ? (
                                 <button onClick={() => setNavbarOpen(true)} className=" flex items-center px-3 py-2 border rounded border-slate-200 hover:text-white hover:borer-white text-slate-200">
@@ -48,7 +48,7 @@ const Navbar = () => {
                         }
                     </div>
                 <div className="menu block md:w-auto" id="navbar"> 
-                    <ul className= "flex p-4 md:p-0 sm:flex-row md:space-x-8 mt-5 mb-0">
+                    <ul className= "flex p-4 md:p-0 sm:flex-row md:space-x-8 mt-5 mb-0 hidden sm:flex">
                         {NavLinks.map((link, index) => (
                             <li key={index}>
                                 <NavLink href={link.path} title={link.title} />
