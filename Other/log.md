@@ -50,6 +50,8 @@
 ## 3/11/24 
 - Navbar fix for mobile | look into keep home there.. move to top right..
 
-## 3/_/24 | Focus on Navbar getting dato to box.. 
+## 3/14/24
+- Updated Home page 
 
-## 3/_/24
+
+## 3/15/24 | Focus on Navbar getting dato to box.. 
