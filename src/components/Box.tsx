@@ -11,6 +11,7 @@ const Background: React.FC<BackgroundProps> = ({ currentPage }) => {
     switch (currentPage) {
       // Example case: Add your own cases as needed
       case "#about":
+      case "#mpcb":
         return <p>This is the About page content.</p>;
       default:
         return <p className="justify-center"> Welcome! This is where my Navbar will show Content</p>;
