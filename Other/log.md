@@ -53,5 +53,8 @@
 ## 3/14/24
 - Updated Home page 
 
+## 3/16/24
+- Added "JC" Favicon
 
-## 3/15/24 | Focus on Navbar getting dato to box.. 
+
+## 3/_/24 | Focus on Navbar getting dato to box.. 
