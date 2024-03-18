@@ -57,4 +57,14 @@
 - Added "JC" Favicon
 
 
-## 3/_/24 | Focus on Navbar getting dato to box.. 
+## 3/17/24
+- Added style={{backgroundImage: "url('/images/background')"}} for background image
+- Added mt-3 to the buttons
+
+## 3/_/24  | Focus on Navbar getting dato to box.. 
+
+
+## 3/_/24
+
+
+## 3/_/24

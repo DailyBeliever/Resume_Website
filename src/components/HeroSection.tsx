@@ -53,10 +53,10 @@ const HeroSection = () => {
                         <div>
                         <button className= "px-6 py-3 w-full sm:w-fit rounded-full mr-4 bg-gradient-to-br from-red-500 via-blue-500 to-red-500 hover:bg-slate-200 text-white font-bold">
                             <span className= "block bg-[#292828] hover:bg-slate-800 rounded-full px-5 py-2 "> My Resume </span></button>
-                        <button className= "px-1 py-1 w-full sm:w-fit rounded-full bg-gradient-to-br from-red-500 via-blue-500 to-red-500 hover:bg-slate-200 font-bold"> 
+                        <button className= "mt-3 px-1 py-1 w-full sm:w-fit rounded-full bg-gradient-to-br from-red-500 via-blue-500 to-red-500 hover:bg-slate-200 font-bold"> 
                             <span className= "block bg-[#121212] hover:bg-slate-800 rounded-full px-5 py-2"> Terminal </span></button>
                         </div>
-                </div>
+                </div> 
             </div>
         </div>
         </section>
@@ -64,3 +64,5 @@ const HeroSection = () => {
 };
 
 export default HeroSection;
+
+// I added mt-3 to the second button to give it some space from the first button.
