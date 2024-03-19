@@ -61,7 +61,18 @@
 - Added style={{backgroundImage: "url('/images/background')"}} for background image
 - Added mt-3 to the buttons
 
+## 3/18/24
+- Removed AboutSection import from page
+- Added AboutSection import to Box
+
+
 ## 3/_/24  | Focus on Navbar getting dato to box.. 
+
+
+## 3/_/24
+
+
+## 3/_/24
 
 
 ## 3/_/24

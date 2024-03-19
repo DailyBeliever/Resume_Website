@@ -1,4 +1,5 @@
 import React from "react";
+import AboutSection from "./AboutSection"; // Adjust the import path as necessary
 
 interface BackgroundProps {
   currentPage: string;
@@ -10,11 +11,12 @@ const Background: React.FC<BackgroundProps> = ({ currentPage }) => {
   const renderContent = () => {
     switch (currentPage) {
       // Example case: Add your own cases as needed
-      case "#about":
+      case "AboutSection":
+        return <AboutSection />;
       case "#mpcb":
         return <p>This is the About page content.</p>;
       default:
-        return <p className="justify-center"> Welcome! This is where my Navbar will show Content</p>;
+        return <p className="justify-center"> Welcome! This is where my Navbar will show Content |  Website Under Construction!</p>;
     }
   };
 
