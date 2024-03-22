@@ -66,10 +66,11 @@
 - Added AboutSection import to Box
 
 
+## 3/21/24
+- Replaced "Home" with House button
+- Added more pages
+
 ## 3/_/24  | Focus on Navbar getting dato to box.. 
-
-
-## 3/_/24
 
 
 ## 3/_/24
