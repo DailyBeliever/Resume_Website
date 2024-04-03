@@ -16,7 +16,9 @@ const Background: React.FC<BackgroundProps> = ({ currentPage }) => {
       case "#mpcb":
         return <p>This is the About page content.</p>;
       default:
-        return <p className="justify-center"> Welcome! This is where my Navbar will show Content |  Website Under Construction!</p>;
+        return <p className="justify-center"> Welcome! This is where my Navbar will show Content |  Website Under Construction!.
+        
+        </p>;
     }
   };
 
