@@ -56,7 +56,6 @@
 ## 3/16/24
 - Added "JC" Favicon
 
-
 ## 3/17/24
 - Added style={{backgroundImage: "url('/images/background')"}} for background image
 - Added mt-3 to the buttons
@@ -65,18 +64,27 @@
 - Removed AboutSection import from page
 - Added AboutSection import to Box
 
-
 ## 3/21/24
 - Replaced "Home" with House button
 - Added more pages
 
-## 3/_/24  | Focus on Navbar getting dato to box.. 
+## 4/_/24
+- Started the Website Rework
+- Update File paths
+
+## 4/_/24 | Focus on Navbar getting data to box.. 
 
 
-## 3/_/24
+## 4/_/24
 
 
-## 3/_/24
+## 4/_/24
 
 
-## 3/_/24
+## 4/_/24
+
+
+## 4/_/24
+
+
+## 4/_/24

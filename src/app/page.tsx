@@ -1,6 +1,6 @@
 // This is the import from the components folder
 import HeroSection from "../components/HeroSection";
-import Background from "../components/Box";
+import Background from "../components/Current_Page";
 import Navbar from "../components/Navbar";
 
 export default function Home() {
