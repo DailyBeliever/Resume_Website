@@ -1,11 +1,11 @@
 import React from "react";
-import AboutSection from "./AboutSection"; // Adjust the import path as necessary
+import AboutSection from "../pages/AboutSection"; // Adjust the import path as necessary
 
 interface BackgroundProps {
   currentPage: string;
 }
 
-const Background: React.FC<BackgroundProps> = ({ currentPage }) => {
+const Current: React.FC<BackgroundProps> = ({ currentPage }) => {
   // Placeholder for content based on the current page
   // You'll display different content based on `currentPage`
   const renderContent = () => {
@@ -32,4 +32,4 @@ const Background: React.FC<BackgroundProps> = ({ currentPage }) => {
   );
 }
 
-export default Background;
+export default Current;
