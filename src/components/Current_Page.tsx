@@ -3,6 +3,7 @@ import AboutSection from "../pages/AboutSection"; // Adjust the import path as n
 import Contact from "../pages/Contact";
 import MPCB from "../pages/MPCB";
 import Projects from "../pages/Projects";
+import Other from "../pages/Other";
 
 interface BackgroundProps {
   currentPage: string;
@@ -21,6 +22,8 @@ const Current: React.FC<BackgroundProps> = ({ currentPage }) => {
         return <MPCB />;
       case "Projects":
         return <Projects />;
+      case "Other":
+        return <Other />;
       default:
         return (
           <p className="justify-center">
