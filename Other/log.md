@@ -72,19 +72,14 @@
 - Started the Website Rework
 - Update File paths
 
-## 4/_/24 | Focus on Navbar getting data to box.. 
+## 5/_/24 | Focus on Navbar getting data to box.. 
 
 
-## 4/_/24
+## 5/_/24
 
 
-## 4/_/24
+## 5/_/24
 
 
-## 4/_/24
+## 5/_/24
 
-
-## 4/_/24
-
-
-## 4/_/24
