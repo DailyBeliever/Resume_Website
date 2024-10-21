@@ -75,11 +75,16 @@
 ## 5/_/24 | Focus on Navbar getting data to box.. 
 
 
-## 5/_/24
+## 10/20/24
+- Revisiting this for SHPE
+- Add Password Generator
 
+## 10/_/24
+-
+-
 
-## 5/_/24
+## 10/_/24
+-
+-
 
-
-## 5/_/24
-
+## 11/_/24
