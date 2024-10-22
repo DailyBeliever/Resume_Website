@@ -80,7 +80,7 @@
 - Add Password Generator
 
 ## 10/_/24
--
+- Update, talk to Brenden, about coding review
 -
 
 ## 10/_/24
